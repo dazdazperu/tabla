@@ -1,0 +1,1 @@
+salida de archivos generados por el script
